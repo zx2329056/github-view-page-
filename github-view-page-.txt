@@ -1,0 +1,2 @@
+创建gh-pages分支进行预览，创建分支之后，访问http://你的Github名.github.io/+页面地址
+例如：http://zx2329056.github.io/test3/index.html
